@@ -4,7 +4,12 @@ SORT
 A simple online and realtime tracking algorithm for 2D multiple object tracking in video sequences.
 See an example [video here](https://motchallenge.net/movies/ETH-Linthescher-SORT.mp4).
 
-By Alex Bewley  
+By Alex Bewley
+
+Modified to show estimated box positions of missed detections (false negatives) which still have a detection ratio above
+a given threshold.
+
+By Gustavo Montamat
 
 ### Introduction
 
